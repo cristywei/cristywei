@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I'm Cristy!
+
+- Interested in data engineering, software engineering, and analytics
+- Recieved my BA in Data Science and Economics from Claremont McKenna College in May 2023
 
 <!--
 **cristywei/cristywei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
