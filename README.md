@@ -3,7 +3,7 @@
 - Interested in data engineering, software engineering, and analytics
 - Recieved my BA in Data Science and Economics from Claremont McKenna College in May 2023
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/cristy-wei/) or through [email](mailto:criwei@hmc.edu)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cristy-wei/) or through [email](mailto:cwei2427@gmail.com)!
 
 <!--
 **cristywei/cristywei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
