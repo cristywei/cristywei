@@ -1,7 +1,6 @@
 ### Hello, I'm Cristy!
 
-- Interested in data engineering, software engineering, and analytics
-- Recieved my BA in Data Science and Economics from Claremont McKenna College in May 2023
+I am recent graduate from Claremont McKenna College with a Bachelor's degree in Economics and Data Science.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cristy-wei/) or through [email](mailto:cwei2427@gmail.com)!
 
