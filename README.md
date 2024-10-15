@@ -3,7 +3,7 @@
 I graduated from Claremont McKenna College in May 2023 with a Bachelor's degree in Economics and Data Science.
 
 - 🔭 I’m currently working on: analyzing NCAA women's gymnastics performance compared to their recruit ratings
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristy-wei/) | [email](mailto:cwei2427@gmail.com)!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristy-wei/) | [Email](mailto:cwei2427@gmail.com)
 
 <!--
 **cristywei/cristywei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
